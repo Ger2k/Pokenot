@@ -116,9 +116,9 @@ function animateBattle() {
 	})
 }
 
-//animate()
-initBattle()
-animateBattle()
+animate()
+//initBattle()
+//animateBattle()
 
 
 

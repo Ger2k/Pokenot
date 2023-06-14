@@ -137,6 +137,8 @@ const battle = {
 }
 
 function animate() {
+	document.querySelector("#userInterface").style.display = "none"
+	document.querySelector("#dialogueBox").style.display = "none"
 	const animationId = window.requestAnimationFrame(animate)
 	background.draw()
 	boundaries.forEach(boundary => {
