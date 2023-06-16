@@ -1,0 +1,29 @@
+[33mcommit dc4799fc692b609885d1839c8a914cc2ded34911[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Ger <musikadicto@gmail.com>
+Date:   Wed Jun 14 12:52:57 2023 +0200
+
+    arreglado bug en foreground
+
+[33mcommit 32796e1318102e2038080a75f1e54c68bef82edb[m
+Author: Ger <musikadicto@gmail.com>
+Date:   Wed Jun 14 12:43:59 2023 +0200
+
+    arreglado bug en foreground
+
+[33mcommit d951f5449c580544105c277eef12d4982355d402[m
+Author: Ger <musikadicto@gmail.com>
+Date:   Wed Jun 14 12:40:43 2023 +0200
+
+    inicio fuera de batalla y arreglado el bug del enemigo cada vez mas abajo por la animacion de faint
+
+[33mcommit 705fa283b4d38fb3be979c3f5d2c4cd9eeafe4f0[m
+Author: Ger <musikadicto@gmail.com>
+Date:   Wed Jun 14 12:28:31 2023 +0200
+
+    ataque fireball 25
+
+[33mcommit edf81f8fe6252b619d84dc7b14c378524944a45f[m
+Author: Ger <musikadicto@gmail.com>
+Date:   Wed Jun 14 12:19:48 2023 +0200
+
+    Tutorial completado menos sonido
